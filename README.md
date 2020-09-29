@@ -1,2 +1,2 @@
 # pwa-football-app
-Project ini adalah submission dicoding
+Project ini hanya sebagai referensi saja
